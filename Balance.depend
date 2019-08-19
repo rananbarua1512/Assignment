@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1566231380 source:f:\new folder\new folder\cpp\balance\main.cpp
+	<iostream>
+	"StackType.h"
+	"StackType.cpp"
+	<string>
+
+1566223079 source:f:\new folder\new folder\cpp\balance\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1566223121 f:\new folder\new folder\cpp\balance\stacktype.h
+
+1566223079 f:\new folder\new folder\cpp\balance\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
